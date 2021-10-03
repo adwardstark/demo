@@ -10,5 +10,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "card-details": {
+    "owner_name": "Mark Henry",
+    "card_number": "5647341124132020",
+    "cvv_number": "456",
+    "expiry_date": "Thru: 12/20",
+    "balance_amount": "3,000",
+    "amount_spent": "345",
+    "spend_limit": "5000"
   }
 }
